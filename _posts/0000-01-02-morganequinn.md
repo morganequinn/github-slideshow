@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Let's add some content because the robot wants us to. 
